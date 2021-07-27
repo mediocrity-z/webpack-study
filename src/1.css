@@ -1,0 +1,9 @@
+li{
+    list-style: none;
+}
+.box{
+    width: 500px;
+    height: 380px;
+    background-color: pink;
+    background: url('./home.png');
+}
